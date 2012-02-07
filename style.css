@@ -1,0 +1,169 @@
+body{
+background-color: #fdf9f9;
+width: 960px;
+margin: 0 auto;
+}
+
+
+header {
+width: 980px;
+height: 261px; 
+margin: auto;
+margin-top: 0px;
+padding-bottom: 5px;
+background-image: url("img/Niveau_2.png");
+}
+
+a{
+color: #fdf9f9;
+}
+
+a:link{
+color: #fdf9f9;
+text-decoration: none;
+}
+
+a:visited{
+color:#fdf9f9;
+}
+
+#header_text{
+width: 475px;
+float:left;
+text-align: center;
+width: 980px;
+margin-top: 235px;
+}
+
+#content{
+height: 219px;
+width: 980px;
+margin: 0 auto;
+}
+
+
+#image{
+position: absolute;
+z-index: 1;
+width: 474px;
+height: 219px;
+margin-left: 253px;
+margin-top: 0px;
+
+}
+
+#reactie{
+width: 980px;
+margin-top: 300px;
+margin-left:-247px
+
+
+
+}
+
+footer{
+width: 980px;
+height: 31px;
+margin: 0 auto;
+margin-top: 400px;
+background-image: url("img/footer.png");
+border-bottom-left-radius: 25px;
+border-bottom-right-radius: 25px;
+}
+
+#A1{
+padding:3px;
+float:left;
+width: 247px;
+//background-color: aqua;
+
+}
+
+#A2{
+line-height: 18px;
+
+padding:3px;
+float: left;
+margin-top: 219px;
+width: 469px;
+//background-color: blue;
+
+}
+
+#A3{
+line-height: 18px;
+
+padding: 3px;
+float: left;
+width: 246px;
+//background-color: fuchsia;
+position: absolute;
+z-index:1;
+margin-left: 475px;
+margin-top: -219px;
+}
+
+#formulier{
+float: left;
+width: 200px;
+margin: 0 auto;
+margin-bottom: 446px;
+}
+
+#formulier2{
+width: 180px;
+margin: 0 auto;
+margin-bottom: -26px;
+}
+
+#aanmelden{
+width: 200px;
+float:left;
+}
+#logintekst{
+color: black;
+float:left;
+}
+#shout{
+margin-bottom: 446px;
+}
+
+#shout{
+margin-left: 340px;
+}
+
+#inlogformulier{
+margin-left: 400px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
